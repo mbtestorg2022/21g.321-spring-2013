@@ -37,22 +37,255 @@ Calendar
 
 The following table indicates which topics, readings, and questions were covered during each class session.
 
-| SES # | TOPICS | ASSIGNMENTS |
-| --- | --- | --- |
-| 1 | Introduction | Arthur Rimbaud, "Chanson de la plus haute tour." (1872)  {{< br >}}———, "Jeunesse.", _Les illuminations_ (1875) |
-| {{< td-colspan 3 >}}**1E PARTIE. QU'EST-CE QUE LA JEUNESSE?**{{< /td-colspan >}} |||
-| 2 | Age ou génération? | Annie Ernaux, _La place_ (1983)  {{< br >}}Marie Darieussecq, _Clèves_ (2011) {{< br >}}{{< br >}} Question: Utiliser un adjectif pour décrire votre génération et expliquer pourquoi. {{< br >}}{{< br >}}  |
-| 3 | La vie devant soi? | Pierre de Ronsard, "Mignonne allons voir si la rose." (1545)  {{< br >}}Léo Ferré, "Jolie môme." (1960)  {{< br >}}Film: Catherine Breillat, _À ma sœur_ (2001) {{< br >}}{{< br >}} Question: Qu'est-ce qui différencie la jeunesse et l'enfance? {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**2E PARTIE. FAIRE SON EXPERIENCE**{{< /td-colspan >}} |||
-| 4 | L'amitié | André Gide, _Les faux-monnayeurs_ (1925)  {{< br >}}Julie Douard, _Après l'enfance_ (2010) {{< br >}}{{< br >}} Question: Décrivez votre meilleur/e ami/e et expliquez pourquoi il/elle vous aide à vivrez votre jeunesse. {{< br >}}{{< br >}}  |
-| 5 | Amour et sexualité | Rachid O., _Plusieurs vies_ (1996)  {{< br >}}Nina Bouraoui, _Le jour du séisme_ (1999) {{< br >}}{{< br >}} Question: Être jeune, est-ce être romantique? {{< br >}}{{< br >}}  |
-| 6 | L'âge ingrat | Film: Riad Sattouf, _Les Beaux Gosses_ (2009) {{< br >}}{{< br >}} Question: L'adolescence est-elle une période difficile et pourquoi? {{< br >}}{{< br >}}  |
-| 7 | Visite au MFA | &nbsp; |
-| {{< td-colspan 3 >}}**3E PARTIE. ETRE UN JEUNE ADULTE**{{< /td-colspan >}} |||
-| 8 | Quitter le monde de l'enfance | Jean Cocteau, _Les parents terribles_ (1938)  {{< br >}}Hervé Guibert, _Mes parents_ (1986)  {{< br >}}Serge Reggiani, _Ma fille_ (1971) {{< br >}}{{< br >}} Question: À quel âge est-il préférable de quitter la maison de ses parents et pourquoi? {{< br >}}{{< br >}}  |
-| 9 | Entrer dans le monde des adultes | Raymond Radiguet, _Le diable au corps_ (1923)  {{< br >}}Romain Gary, _La promesse de l'aube_ (1960) {{< br >}}{{< br >}} Question: Présentez un événement où la société française a eu peur de ses jeunes. {{< br >}}{{< br >}}  |
-| 10 | La jeunesse éternelle | Charles Aznavour, "Sa jeunesse." (1956)  {{< br >}}Film: Noémie Lvovsky, _Camille redouble_ (2012) {{< br >}}{{< br >}} Question: Que ferez-vous à l'avenir pour rester jeunes? {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**4E PARTIE. L'EMERGENCE DES CULTURES "JEUNES"**{{< /td-colspan >}} |||
-| 11 | Une jeunesse globale | Aurélien Bellanger, _La théorie de l'information_ (2012)  {{< br >}}Kev Adams, Florence Foresti, "On ne demande qu'à en rire." {{< br >}}{{< br >}} Question: Vous sentez-vous connectés à d'autres jeunes dans le monde et pourquoi? {{< br >}}{{< br >}}  |
-| 12 | Cultiver son indocilité | Paul Nizan, _La conspiration_ (1938)  {{< br >}}Guy Hocquenghem, _Lettre ouverte à ceux qui sont passés du col Mao au Rotary_ ( 1986)  {{< br >}}Extrait vidéo: Pierre Carles, _La sociologie est un sport de combat_ (2001)  {{< br >}}Damien Saez, "Jeune et con." (2001); "Jeunesse lève-toi." (2007) {{< br >}}{{< br >}} Question: Être jeune, est-ce être révolté? {{< br >}}{{< br >}}  |
-| 13 | La tyrannie de la jeunesse | Film: François Ozon, _Dans la maison_ (2012)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+Arthur Rimbaud, "Chanson de la plus haute tour." (1872)  
+———, "Jeunesse.", _Les illuminations_ (1875)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**1E PARTIE. QU'EST-CE QUE LA JEUNESSE?**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Age ou génération?
+{{< tdclose >}}
+{{< tdopen >}}
+Annie Ernaux, _La place_ (1983)  
+Marie Darieussecq, _Clèves_ (2011)
+
+Question: Utiliser un adjectif pour décrire votre génération et expliquer pourquoi.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+La vie devant soi?
+{{< tdclose >}}
+{{< tdopen >}}
+Pierre de Ronsard, "Mignonne allons voir si la rose." (1545)  
+Léo Ferré, "Jolie môme." (1960)  
+Film: Catherine Breillat, _À ma sœur_ (2001)
+
+Question: Qu'est-ce qui différencie la jeunesse et l'enfance?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**2E PARTIE. FAIRE SON EXPERIENCE**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+L'amitié
+{{< tdclose >}}
+{{< tdopen >}}
+André Gide, _Les faux-monnayeurs_ (1925)  
+Julie Douard, _Après l'enfance_ (2010)
+
+Question: Décrivez votre meilleur/e ami/e et expliquez pourquoi il/elle vous aide à vivrez votre jeunesse.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Amour et sexualité
+{{< tdclose >}}
+{{< tdopen >}}
+Rachid O., _Plusieurs vies_ (1996)  
+Nina Bouraoui, _Le jour du séisme_ (1999)
+
+Question: Être jeune, est-ce être romantique?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+L'âge ingrat
+{{< tdclose >}}
+{{< tdopen >}}
+Film: Riad Sattouf, _Les Beaux Gosses_ (2009)
+
+Question: L'adolescence est-elle une période difficile et pourquoi?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Visite au MFA
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**3E PARTIE. ETRE UN JEUNE ADULTE**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Quitter le monde de l'enfance
+{{< tdclose >}}
+{{< tdopen >}}
+Jean Cocteau, _Les parents terribles_ (1938)  
+Hervé Guibert, _Mes parents_ (1986)  
+Serge Reggiani, _Ma fille_ (1971)
+
+Question: À quel âge est-il préférable de quitter la maison de ses parents et pourquoi?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Entrer dans le monde des adultes
+{{< tdclose >}}
+{{< tdopen >}}
+Raymond Radiguet, _Le diable au corps_ (1923)  
+Romain Gary, _La promesse de l'aube_ (1960)
+
+Question: Présentez un événement où la société française a eu peur de ses jeunes.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+La jeunesse éternelle
+{{< tdclose >}}
+{{< tdopen >}}
+Charles Aznavour, "Sa jeunesse." (1956)  
+Film: Noémie Lvovsky, _Camille redouble_ (2012)
+
+Question: Que ferez-vous à l'avenir pour rester jeunes?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**4E PARTIE. L'EMERGENCE DES CULTURES "JEUNES"**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Une jeunesse globale
+{{< tdclose >}}
+{{< tdopen >}}
+Aurélien Bellanger, _La théorie de l'information_ (2012)  
+Kev Adams, Florence Foresti, "On ne demande qu'à en rire."
+
+Question: Vous sentez-vous connectés à d'autres jeunes dans le monde et pourquoi?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Cultiver son indocilité
+{{< tdclose >}}
+{{< tdopen >}}
+Paul Nizan, _La conspiration_ (1938)  
+Guy Hocquenghem, _Lettre ouverte à ceux qui sont passés du col Mao au Rotary_ ( 1986)  
+Extrait vidéo: Pierre Carles, _La sociologie est un sport de combat_ (2001)  
+Damien Saez, "Jeune et con." (2001); "Jeunesse lève-toi." (2007)
+
+Question: Être jeune, est-ce être révolté?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+La tyrannie de la jeunesse
+{{< tdclose >}}
+{{< tdopen >}}
+Film: François Ozon, _Dans la maison_ (2012)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

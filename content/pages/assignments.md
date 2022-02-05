@@ -21,22 +21,201 @@ Weekly Short-Answer Papers
 
 The weekly short-answer papers should consist of a half-page argument on the weekly theme. The prompts for each session are shown in the table below.
 
-| SES # | TOPICS | PROMPTS |
-| --- | --- | --- |
-| 1 | Introduction | None |
-| {{< td-colspan 3 >}}**1E PARTIE. QU'EST-CE QUE LA JEUNESSE?**{{< /td-colspan >}} |||
-| 2 | Age ou génération? | Utiliser un adjectif pour décrire votre génération et expliquer pourquoi. |
-| 3 | La vie devant soi? | Qu'est-ce qui différencie la jeunesse et l'enfance? |
-| {{< td-colspan 3 >}}**2E PARTIE. FAIRE SON EXPERIENCE**{{< /td-colspan >}} |||
-| 4 | L'amitié | Décrivez votre meilleur/e ami/e et expliquez pourquoi il/elle vous aide à vivrez votre jeunesse. |
-| 5 | Amour et sexualité | Être jeune, est-ce être romantique? |
-| 6 | L'âge ingrat | L'adolescence est-elle une période difficile et pourquoi? |
-| 7 | Visite au MFA | None |
-| {{< td-colspan 3 >}}**3E PARTIE. ETRE UN JEUNE ADULTE**{{< /td-colspan >}} |||
-| 8 | Quitter le monde de l'enfance | À quel âge est-il préférable de quitter la maison de ses parents et pourquoi? |
-| 9 | Entrer dans le monde des adultes | Présentez un événement où la société française a eu peur de ses jeunes. |
-| 10 | La jeunesse éternelle | Que ferez-vous à l'avenir pour rester jeunes? |
-| {{< td-colspan 3 >}}**4E PARTIE. L'EMERGENCE DES CULTURES « JEUNES »**{{< /td-colspan >}} |||
-| 11 | Une jeunesse globale | Vous sentez-vous connectés à d'autres jeunes dans le monde et pourquoi? |
-| 12 | Cultiver son indocilité | Être jeune, est-ce être révolté? |
-| 13 | La tyrannie de la jeunesse | None
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+PROMPTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**1E PARTIE. QU'EST-CE QUE LA JEUNESSE?**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Age ou génération?
+{{< tdclose >}}
+{{< tdopen >}}
+Utiliser un adjectif pour décrire votre génération et expliquer pourquoi.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+La vie devant soi?
+{{< tdclose >}}
+{{< tdopen >}}
+Qu'est-ce qui différencie la jeunesse et l'enfance?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**2E PARTIE. FAIRE SON EXPERIENCE**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+L'amitié
+{{< tdclose >}}
+{{< tdopen >}}
+Décrivez votre meilleur/e ami/e et expliquez pourquoi il/elle vous aide à vivrez votre jeunesse.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Amour et sexualité
+{{< tdclose >}}
+{{< tdopen >}}
+Être jeune, est-ce être romantique?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+L'âge ingrat
+{{< tdclose >}}
+{{< tdopen >}}
+L'adolescence est-elle une période difficile et pourquoi?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Visite au MFA
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**3E PARTIE. ETRE UN JEUNE ADULTE**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Quitter le monde de l'enfance
+{{< tdclose >}}
+{{< tdopen >}}
+À quel âge est-il préférable de quitter la maison de ses parents et pourquoi?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Entrer dans le monde des adultes
+{{< tdclose >}}
+{{< tdopen >}}
+Présentez un événement où la société française a eu peur de ses jeunes.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+La jeunesse éternelle
+{{< tdclose >}}
+{{< tdopen >}}
+Que ferez-vous à l'avenir pour rester jeunes?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**4E PARTIE. L'EMERGENCE DES CULTURES « JEUNES »**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Une jeunesse globale
+{{< tdclose >}}
+{{< tdopen >}}
+Vous sentez-vous connectés à d'autres jeunes dans le monde et pourquoi?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Cultiver son indocilité
+{{< tdclose >}}
+{{< tdopen >}}
+Être jeune, est-ce être révolté?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+La tyrannie de la jeunesse
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
