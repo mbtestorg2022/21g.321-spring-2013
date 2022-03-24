@@ -237,7 +237,7 @@ Cultiver son indocilité
 {{< tdclose >}}
 {{< tdopen >}}
 Nizan, Paul. Chapitre I in _La Conspiration roman_. Gallimard, 1938.  
-Hocquenghem, Guy. _Lettre ouverte à ceux qui sont passés du col Mao au Rotary_. Agone, 1986, ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)pp. 44–7 (PDF). ISBN: 9782748900057.  
+Hocquenghem, Guy. _Lettre ouverte à ceux qui sont passés du col Mao au Rotary_. Agone, 1986, pp. 44–7 (PDF). ISBN: 9782748900057.  
 Carles, Pierre. _La sociologie est un sport de combat_. Extrait vidéo, 2001.  
 Saez, Damien. "[Jeune et con](http://www.paroles-musique.com/paroles-Saez-Jeune_Et_Con-lyrics,p487)." Chanson, 2001.  
 ———. "[Jeunesse lève-toi](http://www.paroles-musique.com/paroles-Saez-Jeunesse_Leve_Toi-lyrics,p32012)." Chanson, 2007.
